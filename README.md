@@ -7,5 +7,5 @@ b. PAT generates Receipt No.
 c. Login of eligible students. 
 d. Record of eligible students for placement. 
 e. Record of companies participating in placement for VIT. 
-f. VIT shares company details with students. 
+f. VIT shares company details with students.
 g. Student can access company details and apply for job. 
