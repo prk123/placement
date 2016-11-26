@@ -1,5 +1,4 @@
-# placement
-Placement system for college
+# Placement System for College !
 
 Placement Management System for College aims at automation of the following processes  
  
